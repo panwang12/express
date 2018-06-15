@@ -1,0 +1,6 @@
+{
+	"errorCode":"300107",
+	"message":"该视频源被布控任务使用，请先停止布控任务",
+	"path":"/senseface/videoResource/cancelAccess,resourceId=100005",
+	"timestamp":1528956497515
+}

@@ -1,0 +1,16 @@
+[
+	{
+		"currentLevel":0,
+		"groupId":1,
+		"leafNode":true,
+		"name":"一级部门（可修改名称）",
+		"nodeType":0,
+		"parentId":0,
+		"path":"0-1-",
+		"resources":[],
+		"resourcesCount":6,
+		"selected":false,
+		"status":1,
+		"subTreeNodes":[]
+	}
+]
